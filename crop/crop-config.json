@@ -1,0 +1,18 @@
+{
+  "input": "/home/atari-monk/atari-monk/video/my-sex/sex/2026-11-14/input.mp4",
+  "output": "/home/atari-monk/atari-monk/video/my-sex/sex/2026-11-14/cropped.mp4",
+
+  "crop": {
+    "x": 0,
+    "y": 0,
+    "width": 1420,
+    "height": 1080
+  },
+
+  "ffmpegPath": "ffmpeg",
+
+  "preset": "ultrafast",
+  "crf": 18,
+
+  "audioCodec": "copy"
+}

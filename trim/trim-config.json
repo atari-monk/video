@@ -1,0 +1,11 @@
+{
+  "input": "/home/atari-monk/atari-monk/video/my-sex/sex/2026-11-14/raw/throat.mp4",
+  "output": "/home/atari-monk/atari-monk/video/my-sex/sex/2026-11-14/input.mp4",
+
+  "trimStart": "00:01:50",
+  "trimEnd": "00:00:16",
+
+  "mode": "copy",
+  "ffmpegPath": "ffmpeg",
+  "extraArgs": []
+}
